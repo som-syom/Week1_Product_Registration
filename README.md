@@ -10,6 +10,9 @@
 
 [🌍 배포 링크](https://infallible-edison-a64509.netlify.app/)
 
+
+[⭐️ 프로젝트 후기 - 블로그](https://mu-mu-syo.tistory.com/53)
+
 <br />
 
 ## 1. 프로젝트 소개 🚀
